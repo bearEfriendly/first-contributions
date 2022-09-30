@@ -66,6 +66,7 @@
 - [Sheuron Azxe](https://github.com/sheuronazxe/)
 - [Swadesh Panda](https://github.com/Swadesh-Panda)
 - [ChangIL Mo](https://github.com/mochangil)
+  [Jonathan Figueroa](https://github.com/bearEfriendly)
 - [Aditya Tripathi](https://github.com/aditya5573)
 - [Jugurtha K](https://github.com/jugurthak)
   [Katy Hagen](https://github.com/katyhagen)
